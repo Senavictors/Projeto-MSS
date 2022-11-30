@@ -1,6 +1,14 @@
 # Projeto - MSS
 Projeto do Segundo Semestre Uninove - Modelagem de Sistemas de Software.
 
+# Integrantes do grupo
+Ao todo nós somos 4:
+
+Rafael Marreiros Martins, RA: 922109659
+Gabriel Costa Alves,      RA: 922107838
+Victor Hugo Sena Ribeiro, RA: 922107016
+Daniel da Silva Camargo,  RA: 922104786
+
 # O Caminho até aqui
 Nosso grupo alem de pequeno começou atrasado, com pouquissimo tempo pra realização do projeto todo, entao justamente por essa falta de tempo, fomos atras de informações e conhecimentos exteriores e pra isso, usamos tanto Udemy quanto Alura pra estudar, e assim, chegamos a conclusão que um blog seria a opção mais divertida de se fazer. 
 
